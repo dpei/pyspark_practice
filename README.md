@@ -25,3 +25,7 @@ Question 5: Which country has the most mentions: Kenya, Wales, or Netherlands?
 Question 6: Finally, what is the average number of times a country is mentioned?
 
 Reference: https://github.com/pritamd/SoccerTweetAnalysis
+
+## Handling missing value
+
+Procedures handling missing vaue in pyspark data frame
