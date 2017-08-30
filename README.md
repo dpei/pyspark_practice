@@ -1,4 +1,6 @@
-# pyspark_practice_SoccerTweetAnalysis
+# pyspark_practice
+
+## SoccerTweetAnalysis
 
 This is an assignment from "Big Data Integration and Processing" Course from Coursera. The "Big Data Integration and Processing" is the 3rd course for the Big Data Specilization.
 
